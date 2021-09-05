@@ -1,0 +1,29 @@
+This code book contains information about the 20 data columns in the tidyset.txt data set.  
+
+
+There are 30 subjects, numbered 1-30.  
+
+The six activities each subject engaged in are: Laying, Sitting, Standing, Walking, Walking up, and Walking down.
+
+The remaining 18 columns contain the mean of each feature grouped by subject and activity. 
+
+The feature column headings and description are:
+
+tBodyAccMag-mean(), Mean of the mean acceleration of the subject's body 
+tGravityAccMag-mean(), Mean of the mean  acceleration of subject due to gravity 
+tBodyAccJerkMag-mean(), Mean of the mean  jerk of the subject 
+tBodyGyroMag-mean(), Mean of the mean  gyroscope reading
+tBodyGyroJerkMag-mean(), Mean of the mean  gyroscope jerk
+fBodyAccMag-mean(), Mean of the mean body acceleration after Fast Fourier Transform (FFT)
+fBodyBodyAccJerkMag-mean(), Mean of the mean jerk of the subject after FFT
+fBodyBodyGyroMag-mean(), Mean of the mean gyroscope reading after FFT
+fBodyBodyGyroJerkMag-Mean(), Mean of the mean gyroscope jerk after FFT
+tBodyAccMag-std(), Mean of the standard deviation of body acceleration
+tGravityAccMag-std(), Mean of the standard deviation of acceleration due to gravity
+tBodyAccJerkMag-std(), Mean of the standard deviation of the jerk of the subject
+tBodyGyroMag-std(), Mean of the standard deviation of the gyroscope reading
+tBodyGyroJerkMag-std(), Mean of the standard deviation of the gyroscope jerk
+fBodyAccMag-std(), Mean of the standard deviation of the body acceleration after FFT
+fBodyBodyAccJerkMag-std(), Mean of the standard deviation of the jerk of the subject after FFT
+fBodyBodyGyroMag-std(), Mean of the standard deviation of the gyroscope reading after FFT
+fBodyBodyGyroJerkMag-std(), Mean of the standard deviation of gyroscope jerk after FFT
