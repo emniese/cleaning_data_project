@@ -1,8 +1,9 @@
 ---
-title: "Readme for run_analysis.R"
+title: "readme.md"
 output: html_document
 ---
 
+## Readme file for run_analysis.R 
 
 Given the test and train data, the following sequence of steps was followed to convert the data into a tidy data set. 
 
